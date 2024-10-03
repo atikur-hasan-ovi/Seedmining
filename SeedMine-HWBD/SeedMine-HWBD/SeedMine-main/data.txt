@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1211996990%2C%22first_name%22%3A%22Atikur%20Hasan%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22atikurhasanovi%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=2140547171647846735&chat_type=private&start_param=1211996990&auth_date=1727933567&hash=532489574451aa3e5460e1341eccbbde426bd470f131940044bd87b6e242aadd
